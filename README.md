@@ -1,16 +1,48 @@
-# clustrr
+# 📚 Clustrr – Centralized Academic Collaboration Platform
 
-A new Flutter project.
+A modern Flutter-based mobile application built for students, Class Representatives (CRs), and teachers to manage academic communication, materials, and collaboration in a unified platform.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+### 👨‍🎓 Student Module
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- View announcements and updates
+- Access subject-wise study materials
+- Receive messages and notifications
+- Join batch-wise discussions
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🧑‍🏫 Teacher Module
+
+- Upload study materials (PDFs, PPTs, Docs)
+- Class announcements & updates
+- Manage batches and content
+
+### 👨‍🏫 Class Representative (CR) Module
+
+- Share updates with students
+- Upload materials
+- Coordinate between teachers and students
+
+---
+
+## 🔥 Technology Stack
+
+### **Frontend (Mobile App)**
+
+- Flutter 3.x
+- Dart
+- Material Design 3 (Dark Theme + Neon Accents)
+
+### **Backend & Services**
+
+- Firebase Authentication
+- Firebase Firestore (Database)
+- Firebase Storage (Materials Uploads)
+- Firebase Cloud Messaging (Notifications)
+- WebRTC (For real-time communication module)
+
+---
+
+## 🗂 Project Folder Structure
