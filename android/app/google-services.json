@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "305742941727",
+    "project_id": "clustrr-34290",
+    "storage_bucket": "clustrr-34290.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305742941727:android:9d9bf070db721b72600f2a",
+        "android_client_info": {
+          "package_name": "com.example.clustrr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305742941727-tp14h8133ifsa9k8q1rkj8bh4lu19qfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqm0JefXBQXZF5aIc_Uf1OlTGxXEOjs3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305742941727-tp14h8133ifsa9k8q1rkj8bh4lu19qfh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "305742941727-4lfol3pda0ii55hde1jlr4sog2c0il10.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.clustrr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
