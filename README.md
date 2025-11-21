@@ -116,17 +116,7 @@ flutter run
 4. Build release APK
 flutter build apk --release
 
-📸 Screenshots 
-login
-<img width="640" height="1286" alt="localhost_52451_" src="https://github.com/user-attachments/assets/4f7785a9-4ca5-4939-827a-a7145aef3ee4" />
-Registrations
-<img width="640" height="1128" alt="localhost_56953_ (1)" src="https://github.com/user-attachments/assets/5853b22e-783a-4b41-9ddc-52ae6e41aef1" />
-Student dashboard
-<img width="640" height="1128" alt="localhost_56953_ (2)" src="https://github.com/user-attachments/assets/2026207d-07c4-4756-b350-b2071f6174c8" />
-Teacher dashboard
-<img width="640" height="1128" alt="localhost_56953_ (3)" src="https://github.com/user-attachments/assets/86ed791d-f5af-42df-adb7-2f9d26113a47" />
-CR dashboard
-<img width="640" height="1128" alt="localhost_56953_ (4)" src="https://github.com/user-attachments/assets/9ecba749-c1f9-4287-8472-ca2f11ce8fb7" />
+
 
 🤝 Contributors
 
@@ -134,6 +124,18 @@ Mishal KS
 Hashir Muhammed
 Faheem K
 MCA – Jain University
+```
+📸 Screenshots 
+login
+https://github.com/user-attachments/assets/4f7785a9-4ca5-4939-827a-a7145aef3ee4
+
+https://github.com/user-attachments/assets/5853b22e-783a-4b41-9ddc-52ae6e41aef1
+Student dashboard
+https://github.com/user-attachments/assets/2026207d-07c4-4756-b350-b2071f6174c8
+Teacher dashboard
+https://github.com/user-attachments/assets/86ed791d-f5af-42df-adb7-2f9d26113a47
+CR dashboard
+https://github.com/user-attachments/assets/9ecba749-c1f9-4287-8472-ca2f11ce8fb7
 
 📜 License
 This project is for educational & portfolio purposes. All rights reserved.
