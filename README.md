@@ -118,7 +118,7 @@ flutter build apk --release
 
 📸 Screenshots 
 login
-<img width="640" height="1128" alt="localhost_56953_" src="https://github.com/user-attachments/assets/b81a8166-433f-4966-88ca-fdc55f66b36c" />
+<img width="640" height="1286" alt="localhost_52451_" src="https://github.com/user-attachments/assets/4f7785a9-4ca5-4939-827a-a7145aef3ee4" />
 Registrations
 <img width="640" height="1128" alt="localhost_56953_ (1)" src="https://github.com/user-attachments/assets/5853b22e-783a-4b41-9ddc-52ae6e41aef1" />
 Student dashboard
