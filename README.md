@@ -125,17 +125,23 @@ Hashir Muhammed
 Faheem K
 MCA – Jain University
 ```
-📸 Screenshots 
-login
-https://github.com/user-attachments/assets/4f7785a9-4ca5-4939-827a-a7145aef3ee4
+## 📸 Screenshots
 
-https://github.com/user-attachments/assets/5853b22e-783a-4b41-9ddc-52ae6e41aef1
-Student dashboard
-https://github.com/user-attachments/assets/2026207d-07c4-4756-b350-b2071f6174c8
-Teacher dashboard
-https://github.com/user-attachments/assets/86ed791d-f5af-42df-adb7-2f9d26113a47
-CR dashboard
-https://github.com/user-attachments/assets/9ecba749-c1f9-4287-8472-ca2f11ce8fb7
+### 🔐 Login
+![Login](https://github.com/user-attachments/assets/4f7785a9-4ca5-4939-827a-a7145aef3ee4)
+
+### 📝 Registration
+![Registration](https://github.com/user-attachments/assets/5853b22e-783a-4b41-9ddc-52ae6e41aef1)
+
+### 🎓 Student Dashboard
+![Student Dashboard](https://github.com/user-attachments/assets/2026207d-07c4-4756-b350-b2071f6174c8)
+
+### 👨‍🏫 Teacher Dashboard
+![Teacher Dashboard](https://github.com/user-attachments/assets/86ed791d-f5af-42df-adb7-2f9d26113a47)
+
+### 👑 CR Dashboard
+![CR Dashboard](https://github.com/user-attachments/assets/9ecba749-c1f9-4287-8472-ca2f11ce8fb7)
+
 
 📜 License
 This project is for educational & portfolio purposes. All rights reserved.
